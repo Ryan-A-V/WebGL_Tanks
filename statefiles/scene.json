@@ -1,0 +1,2057 @@
+[
+    {
+      "objects": [
+        {
+          "name": "wall2-copy",
+          "material": {
+            "diffuse": [
+              0.5882,
+              0.5882,
+              0.5882
+            ],
+            "ambient": [
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n": 10.000002,
+            "shaderType": 3,
+            "alpha": 1
+          },
+          "type": "cube",
+          "position": [
+            0.5,
+            -1.5,
+            -1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": "stone.png",
+          "normalTexture": "defaultNorm.jpg",
+          "rotation": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "parent": null,
+          "model": null
+        },
+        {
+          "name": "wall3",
+          "material": {
+            "diffuse": [
+              0.5882,
+              0.5882,
+              0.5882
+            ],
+            "ambient": [
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n": 10.000002,
+            "shaderType": 3,
+            "alpha": 1
+          },
+          "type": "cube",
+          "position": [
+            -3,
+            -1.5,
+            1.5
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": "stone.png",
+          "normalTexture": "defaultNorm.jpg",
+          "rotation": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "parent": null,
+          "model": null
+        },
+        {
+          "name": "wall3-copy",
+          "material": {
+            "diffuse": [
+              0.5882,
+              0.5882,
+              0.5882
+            ],
+            "ambient": [
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n": 10.000002,
+            "shaderType": 3,
+            "alpha": 1
+          },
+          "type": "cube",
+          "position": [
+            -2.5,
+            -1.5,
+            1.5
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": "stone.png",
+          "normalTexture": "defaultNorm.jpg",
+          "rotation": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "parent": null,
+          "model": null
+        },
+        {
+          "name": "Cube",
+          "material": {
+            "diffuse": [
+              0.5882,
+              0.5882,
+              0.5882
+            ],
+            "ambient": [
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n": 10.000002,
+            "shaderType": 3,
+            "alpha": 1
+          },
+          "type": "cube",
+          "position": [
+            -3.5,
+            -1,
+            0
+          ],
+          "scale": [
+            1,
+            4,
+            16
+          ],
+          "diffuseTexture": "stone.png",
+          "normalTexture": "defaultNorm.jpg",
+          "rotation": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "parent": null,
+          "model": null
+        },
+        {
+          "name": "exit",
+          "material": {
+            "diffuse": [
+              1,
+              0.0196078431372549,
+              0.0196078431372549
+            ],
+            "ambient": [
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n": 10.000002,
+            "shaderType": 3,
+            "alpha": "0.15"
+          },
+          "type": "cube",
+          "position": [
+            3,
+            -1.5,
+            3
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": "alien.jpg",
+          "normalTexture": "defaultNorm.jpg",
+          "rotation": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "parent": null,
+          "model": null
+        },
+        {
+          "name": "wall1-copy-copy",
+          "material": {
+            "diffuse": [
+              0,
+              0.5019607843137255,
+              0
+            ],
+            "ambient": [
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n": 10.000002,
+            "shaderType": 3,
+            "alpha": 1
+          },
+          "type": "cube",
+          "position": [
+            -0.5,
+            -1.5,
+            -1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": "stone.png",
+          "normalTexture": "defaultNorm.jpg",
+          "rotation": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "parent": null,
+          "model": null
+        },
+        {
+          "name": "wall3-copy-copy",
+          "material": {
+            "diffuse": [
+              0.5882,
+              0.5882,
+              0.5882
+            ],
+            "ambient": [
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n": 10.000002,
+            "shaderType": 3,
+            "alpha": 1
+          },
+          "type": "cube",
+          "position": [
+            -2,
+            -1.5,
+            1.5
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": "stone.png",
+          "normalTexture": "defaultNorm.jpg",
+          "rotation": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "parent": null,
+          "model": null
+        },
+        {
+          "name": "wall2-copy-copy-copy",
+          "material": {
+            "diffuse": [
+              0.5882,
+              0.5882,
+              0.5882
+            ],
+            "ambient": [
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n": 10.000002,
+            "shaderType": 3,
+            "alpha": 1
+          },
+          "type": "cube",
+          "position": [
+            0.5,
+            -1.5,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": "stone.png",
+          "normalTexture": "defaultNorm.jpg",
+          "rotation": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "parent": null,
+          "model": null
+        },
+        {
+          "name": "tempCube",
+          "material": {
+            "diffuse": [
+              0.5,
+              0,
+              0
+            ],
+            "ambient": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "specular": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n": 32,
+            "alpha": 1,
+            "shaderType": 3
+          },
+          "type": "cube",
+          "position": [
+            3.5,
+            -1,
+            0
+          ],
+          "scale": [
+            1,
+            4,
+            16
+          ],
+          "diffuseTexture": "stone.png",
+          "normalTexture": "defaultNorm.jpg",
+          "rotation": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "parent": null,
+          "model": null
+        },
+        {
+          "name": "wall1-copy-copy-copy",
+          "material": {
+            "diffuse": [
+              0,
+              0.5019607843137255,
+              0
+            ],
+            "ambient": [
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n": 10.000002,
+            "shaderType": 3,
+            "alpha": 1
+          },
+          "type": "cube",
+          "position": [
+            -1,
+            -1.5,
+            -1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": "stone.png",
+          "normalTexture": "defaultNorm.jpg",
+          "rotation": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "parent": null,
+          "model": null
+        },
+        {
+          "name": "enemy 2",
+          "material": {
+            "diffuse": [
+              0.9843,
+              0.7529,
+              0.5764
+            ],
+            "ambient": [
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n": 10.000002,
+            "shaderType": 1,
+            "alpha": "0"
+          },
+          "type": "cube",
+          "position": [
+            -1,
+            -1.5,
+            -0.5
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": "stone.png",
+          "normalTexture": "defaultNorm.jpg",
+          "rotation": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "parent": null,
+          "model": null
+        },
+        {"name":"enemy 2 body",
+        "material":{
+          "diffuse":[
+            1,
+            0,
+            0
+          ],
+            "ambient":[
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular":[
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n":"67",
+            "shaderType":1,
+            "alpha":1},
+            "type":"mesh",
+            "position":[
+              0.5,
+              0.7,
+              -7
+              ],
+              "scale":[
+                0.015625,
+                0.015625,
+                0.015625
+                ],
+                "diffuseTexture":"default.jpg",
+                "normalTexture":"defaultNorm.jpg",
+                "rotation":[
+                  -0.9999999403953552,
+                  0.0000023418285763909807,
+                  -0.000004048518803756451,
+                  0,
+                  -0.000004048518803756451,
+                  -0.0000023135196443035966,
+                  0.9999999403953552,
+                  0,
+                  0.000002313041704837815,
+                  0.9999999403953552,
+                  0.000002415306880720891,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                  ],
+                  "parent":"enemy 2",
+                  "model":"tank.obj"
+                  },
+        {
+          "name": "wall1",
+          "material": {
+            "diffuse": [
+              0,
+              0.5019607843137255,
+              0
+            ],
+            "ambient": [
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n": 10.000002,
+            "shaderType": 3,
+            "alpha": 1
+          },
+          "type": "cube",
+          "position": [
+            0,
+            -1.5,
+            -1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": "stone.png",
+          "normalTexture": "defaultNorm.jpg",
+          "rotation": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "parent": null,
+          "model": null
+        },
+        {
+          "name": "wall3-copy-copy-copy",
+          "material": {
+            "diffuse": [
+              0.5882,
+              0.5882,
+              0.5882
+            ],
+            "ambient": [
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n": 10.000002,
+            "shaderType": 3,
+            "alpha": 1
+          },
+          "type": "cube",
+          "position": [
+            -1.5,
+            -1.5,
+            1.5
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": "stone.png",
+          "normalTexture": "defaultNorm.jpg",
+          "rotation": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "parent": null,
+          "model": null
+        },
+        {
+          "name": "Cube-copy",
+          "material": {
+            "diffuse": [
+              0.5882,
+              0.5882,
+              0.5882
+            ],
+            "ambient": [
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n": 10.000002,
+            "shaderType": 3,
+            "alpha": 1
+          },
+          "type": "cube",
+          "position": [
+            0,
+            -1,
+            3.5
+          ],
+          "scale": [
+            16,
+            4,
+            1
+          ],
+          "diffuseTexture": "stone.png",
+          "normalTexture": "defaultNorm.jpg",
+          "rotation": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "parent": null,
+          "model": null
+        },
+        {
+          "name": "enemy 4",
+          "material": {
+            "diffuse": [
+              0.9843,
+              0.7529,
+              0.5764
+            ],
+            "ambient": [
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n": 10.000002,
+            "shaderType": 1,
+            "alpha": "0"
+          },
+          "type": "cube",
+          "position": [
+            1.5,
+            -1.5,
+            1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": "stone.png",
+          "normalTexture": "defaultNorm.jpg",
+          "rotation": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "parent": null,
+          "model": null
+        },
+        {"name":"enemy 4 body",
+        "material":{
+          "diffuse":[
+            1,
+            0,
+            0
+          ],
+            "ambient":[
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular":[
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n":"67",
+            "shaderType":1,
+            "alpha":1},
+            "type":"mesh",
+            "position":[
+              0.5,
+              0.7,
+              -7
+              ],
+              "scale":[
+                0.015625,
+                0.015625,
+                0.015625
+                ],
+                "diffuseTexture":"default.jpg",
+                "normalTexture":"defaultNorm.jpg",
+                "rotation":[
+                  0.7071075723178377,
+                  -0.000005725470199771371,
+                  -0.7071091975889219,
+                  0,
+                  0.7071059057644561,
+                  -6.660977794735947e-12,
+                  0.7071042804857122,
+                  0,
+                  0.000002313041704837815,
+                  0.9999999403953551,
+                  0.0000024153068807208906,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                  "parent":"enemy 4",
+                  "model":"tank.obj"
+                  },
+        {
+          "name": "wall2-copy-copy-copy-copy",
+          "material": {
+            "diffuse": [
+              0.5882,
+              0.5882,
+              0.5882
+            ],
+            "ambient": [
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n": 10.000002,
+            "shaderType": 3,
+            "alpha": 1
+          },
+          "type": "cube",
+          "position": [
+            0.5,
+            -1.5,
+            0.5
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": "stone.png",
+          "normalTexture": "defaultNorm.jpg",
+          "rotation": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "parent": null,
+          "model": null
+        },
+        {
+          "name": "wall2-copy-copy-copy-copy-copy-copy-copy",
+          "material": {
+            "diffuse": [
+              0.5882,
+              0.5882,
+              0.5882
+            ],
+            "ambient": [
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n": 10.000002,
+            "shaderType": 3,
+            "alpha": 1
+          },
+          "type": "cube",
+          "position": [
+            0.5,
+            -1.5,
+            -2
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": "stone.png",
+          "normalTexture": "defaultNorm.jpg",
+          "rotation": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "parent": null,
+          "model": null
+        },
+        {
+          "name": "wall2-copy-copy",
+          "material": {
+            "diffuse": [
+              0.5882,
+              0.5882,
+              0.5882
+            ],
+            "ambient": [
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n": 10.000002,
+            "shaderType": 3,
+            "alpha": 1
+          },
+          "type": "cube",
+          "position": [
+            0.5,
+            -1.5,
+            -0.5
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": "stone.png",
+          "normalTexture": "defaultNorm.jpg",
+          "rotation": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "parent": null,
+          "model": null
+        },
+        {
+          "name": "wall2",
+          "material": {
+            "diffuse": [
+              0.5882,
+              0.5882,
+              0.5882
+            ],
+            "ambient": [
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n": 10.000002,
+            "shaderType": 3,
+            "alpha": 1
+          },
+          "type": "cube",
+          "position": [
+            0.5,
+            -1.5,
+            -1.5
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": "stone.png",
+          "normalTexture": "defaultNorm.jpg",
+          "rotation": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "parent": null,
+          "model": null
+        },
+        {
+          "name": "tempPlane",
+          "material": {
+            "diffuse": [
+              0.3,
+              0.3,
+              0.3
+            ],
+            "ambient": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "specular": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n": 32,
+            "alpha": 1,
+            "shaderType": 3
+          },
+          "type": "plane",
+          "position": [
+            0,
+            -2,
+            0
+          ],
+          "scale": [
+            20,
+            1,
+            20
+          ],
+          "diffuseTexture": "dirt.jpg",
+          "normalTexture": "defaultNorm.jpg",
+          "rotation": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "parent": null,
+          "model": null
+        },
+        {
+          "name": "Cube-copy-copy",
+          "material": {
+            "diffuse": [
+              0.5882,
+              0.5882,
+              0.5882
+            ],
+            "ambient": [
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n": 10.000002,
+            "shaderType": 3,
+            "alpha": 1
+          },
+          "type": "cube",
+          "position": [
+            0,
+            -1,
+            -3.5
+          ],
+          "scale": [
+            16,
+            4,
+            1
+          ],
+          "diffuseTexture": "stone.png",
+          "normalTexture": "defaultNorm.jpg",
+          "rotation": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "parent": null,
+          "model": null
+        },
+        {
+          "name": "tank",
+          "material": {
+            "diffuse": [
+              0,
+              0,
+              0
+            ],
+            "ambient": [
+              0,
+              0,
+              0
+            ],
+            "specular": [
+              0,
+              0,
+              0
+            ],
+            "n": 10.000002,
+            "shaderType": 1,
+            "alpha": "0"
+          },
+          "type": "cube",
+          "position": [
+            -3,
+            -1.5,
+            -3
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": "concreteBricks.jpg",
+          "normalTexture": "defaultNorm.jpg",
+          "rotation": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "parent": null,
+          "model": null
+        },
+        {"name":"tank2",
+        "material":{
+          "diffuse":[
+            0.9490196078431372,
+            0.9490196078431372,
+            0.027450980392156862
+          ],
+            "ambient":[
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular":[
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n":"67",
+            "shaderType":1,
+            "alpha":1},
+            "type":"mesh",
+            "position":[
+              0.5,
+              0.5,
+              -7
+              ],
+              "scale":[
+                0.015625,
+                0.015625,
+                0.015625
+                ],
+                "diffuseTexture":"default.jpg",
+                "normalTexture":"defaultNorm.jpg",
+                "rotation":[
+                  -0.9999999403953552,
+                  0.0000023418285763909807,
+                  -0.000004048518803756451,
+                  0,
+                  -0.000004048518803756451,
+                  -0.0000023135196443035966,
+                  0.9999999403953552,
+                  0,
+                  0.000002313041704837815,
+                  0.9999999403953552,
+                  0.000002415306880720891,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                  ],
+                  "parent":"tank",
+                  "model":"tank.obj"
+                  },
+        {
+          "name": "enemy 3",
+          "material": {
+            "diffuse": [
+              0.9843,
+              0.7529,
+              0.5764
+            ],
+            "ambient": [
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n": 10.000002,
+            "shaderType": 1,
+            "alpha": "0"
+          },
+          "type": "cube",
+          "position": [
+            1.5,
+            -1.5,
+            -2
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": "stone.png",
+          "normalTexture": "defaultNorm.jpg",
+          "rotation": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "parent": null,
+          "model": null
+        },
+        {"name":"enemy 3 body",
+        "material":{
+          "diffuse":[
+            1,
+            0,
+            0
+          ],
+            "ambient":[
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular":[
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n":"67",
+            "shaderType":1,
+            "alpha":1},
+            "type":"mesh",
+            "position":[
+              0.5,
+              0.7,
+              -7
+              ],
+              "scale":[
+                0.015625,
+                0.015625,
+                0.015625
+                ],
+                "diffuseTexture":"default.jpg",
+                "normalTexture":"defaultNorm.jpg",
+                "rotation":[
+                  0.0000023418285763909807,
+                  -0.000004048518803756451,
+                  -0.9999999403953552,
+                  0,
+                  0.9999999403953552,
+                  -0.000004048518803756451,
+                  -0.0000023135196443035966,
+                  0,
+                  0.000002313041704837815,
+                  0.9999999403953552,
+                  0.000002415306880720891,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                  ],
+                  "parent":"enemy 3",
+                  "model":"tank.obj"
+                  },
+        {
+          "name": "wall2-copy-copy-copy-copy-copy",
+          "material": {
+            "diffuse": [
+              0.5882,
+              0.5882,
+              0.5882
+            ],
+            "ambient": [
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n": 10.000002,
+            "shaderType": 3,
+            "alpha": 1
+          },
+          "type": "cube",
+          "position": [
+            0.5,
+            -1.5,
+            1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": "stone.png",
+          "normalTexture": "defaultNorm.jpg",
+          "rotation": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "parent": null,
+          "model": null
+        },
+        {
+          "name": "enemy 1",
+          "material": {
+            "diffuse": [
+              0.9843,
+              0.7529,
+              0.5764
+            ],
+            "ambient": [
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n": 10.000002,
+            "shaderType": 1,
+            "alpha": "0"
+          },
+          "type": "cube",
+          "position": [
+            -2.5,
+            -1.5,
+            2.5
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": "stone.png",
+          "normalTexture": "defaultNorm.jpg",
+          "rotation": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "parent": null,
+          "model": null
+        },
+        {"name":"enemy 1 body",
+        "material":{
+          "diffuse":[
+            1,
+            0,
+            0
+          ],
+            "ambient":[
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular":[
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n":"67",
+            "shaderType":1,
+            "alpha":1.0
+          },
+            "type":"mesh",
+            "position":[
+              0.5,
+              0.7,
+              -7
+              ],
+              "scale":[
+                0.015625,
+                0.015625,
+                0.015625
+                ],
+                "diffuseTexture":"default.jpg",
+                "normalTexture":"defaultNorm.jpg",
+                "rotation":[
+                  0.0000023418285763909807,
+                  -0.000004048518803756451,
+                  -0.9999999403953552,
+                  0,
+                  0.9999999403953552,
+                  -0.000004048518803756451,
+                  -0.0000023135196443035966,
+                  0,
+                  0.000002313041704837815,
+                  0.9999999403953552,
+                  0.000002415306880720891,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                  ],
+                  "parent":"enemy 1",
+                  "model":"tank.obj"
+                  },
+        {
+          "name": "wall2-copy-copy-copy-cop",
+          "material": {
+            "diffuse": [
+              0.5882,
+              0.5882,
+              0.5882
+            ],
+            "ambient": [
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n": 10.000002,
+            "shaderType": 3,
+            "alpha": 1
+          },
+          "type": "cube",
+          "position": [
+            0.5,
+            -1.5,
+            1.5
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": "stone.png",
+          "normalTexture": "defaultNorm.jpg",
+          "rotation": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "parent": null,
+          "model": null
+        },
+        {
+          "name": "wall1-copy-copy-copy-copy",
+          "material": {
+            "diffuse": [
+              0,
+              0.5019607843137255,
+              0
+            ],
+            "ambient": [
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n": 10.000002,
+            "shaderType": 3,
+            "alpha": 1
+          },
+          "type": "cube",
+          "position": [
+            -1.5,
+            -1.5,
+            -1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": "stone.png",
+          "normalTexture": "defaultNorm.jpg",
+          "rotation": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "parent": null,
+          "model": null
+        },
+        {
+          "name": "wall4",
+          "material": {
+            "diffuse": [
+              0.792156862745098,
+              0.3764705882352941,
+              0.6666666666666666
+            ],
+            "ambient": [
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n": 10.000002,
+            "shaderType": 3,
+            "alpha": 1
+          },
+          "type": "cube",
+          "position": [
+            1,
+            -1.5,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": "stone.png",
+          "normalTexture": "defaultNorm.jpg",
+          "rotation": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "parent": null,
+          "model": null
+        },
+        {
+          "name": "wall4-copy",
+          "material": {
+            "diffuse": [
+              0.792156862745098,
+              0.3764705882352941,
+              0.6666666666666666
+            ],
+            "ambient": [
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n": 10.000002,
+            "shaderType": 3,
+            "alpha": 1
+          },
+          "type": "cube",
+          "position": [
+            1.5,
+            -1.5,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": "stone.png",
+          "normalTexture": "defaultNorm.jpg",
+          "rotation": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "parent": null,
+          "model": null
+        },
+        {
+          "name": "wall4-copy-copy",
+          "material": {
+            "diffuse": [
+              0.792156862745098,
+              0.3764705882352941,
+              0.6666666666666666
+            ],
+            "ambient": [
+              0.3,
+              0.3,
+              0.3
+            ],
+            "specular": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "n": 10.000002,
+            "shaderType": 3,
+            "alpha": 1
+          },
+          "type": "cube",
+          "position": [
+            2,
+            -1.5,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": "stone.png",
+          "normalTexture": "defaultNorm.jpg",
+          "rotation": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "parent": null,
+          "model": null
+        }
+      ],
+      "pointLights": [
+        {
+          "name": "pointLight1",
+          "colour": [
+            0.9686274528503418,
+            0.0313725508749485,
+            0.0313725508749485
+          ],
+          "position": [
+            3,
+            -1.5,
+            2.5
+          ],
+          "strength": 0.2,
+          "quadratic": 0.035,
+          "linear": 0.09,
+          "constant": 1,
+          "nearPlane": 0.5,
+          "farPlane": 100,
+          "shadow": 1,
+          "parent": null
+        },
+        {
+          "name": "tank light",
+          "colour": [
+            0.6980392336845398,
+            0.5333333611488342,
+            0.18039216101169586
+          ],
+          "position": [
+            -3,
+            -1,
+            -2.2
+          ],
+          "strength": 0.3,
+          "quadratic": 0.035,
+          "linear": 0.09,
+          "constant": 1,
+          "nearPlane": 1,
+          "farPlane": 100,
+          "shadow": 0,
+          "parent": "tank"
+        }
+      ],
+      "settings": {
+        "camera": {
+          "name": "mainCamera",
+          "position": [
+            0,
+            4.75,
+            0
+          ],
+          "front": [
+            -0.011857885689760707,
+            -0.9998476951577961,
+            0.01280535179569429
+          ],
+          "up": [
+            0,
+            1,
+            0
+          ],
+          "pitch": -89,
+          "yaw": 132.79999999999976,
+          "roll": 0,
+          "moveSpeed": 10,
+          "move": false,
+          "canvasFocused": false,
+          "rateX": 0,
+          "rateY": 0,
+          "keyboard": {
+            "w": false,
+            "a": false
+          },
+          "viewMatrix": {
+            "0": -0.7337305545806885,
+            "1": -0.6793370842933655,
+            "2": 0.011857865378260612,
+            "3": 0,
+            "4": 0,
+            "5": 0.01745239458978176,
+            "6": 0.9998477101325989,
+            "7": 0,
+            "8": -0.6794405579566956,
+            "9": 0.7336187958717346,
+            "10": -0.012805354781448841,
+            "11": 0,
+            "12": 0.7754917144775391,
+            "13": 0.3297233283519745,
+            "14": -6.204852104187012,
+            "15": 1
+          },
+          "sensitivity": 0.4
+        },
+        "backgroundColor": [
+          0.3,
+          0.3,
+          0
+        ]
+      }
+    }
+  ]
